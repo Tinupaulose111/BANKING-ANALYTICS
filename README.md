@@ -1,4 +1,5 @@
 Banking Customer Retention & Insights
+
 🔹 Objective
 
 This project simulates real-world banking analytics to:
@@ -19,7 +20,7 @@ Created using Python (Pandas, NumPy, Faker) based on BFSI domain knowledge
 
 🔹 Dashboards (Power BI)
 
-Customer Segmentation – Based on liability and income contribution
+Customer Segmentation – Based on liability and income contribution and NPA Status
 
 RFM & Churn Risk Analysis – High-value customer identification & churn risk profiling
 
